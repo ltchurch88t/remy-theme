@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------*/
 
 Theme Name      :   Remy
-Theme URI       :   http://http://ec2-52-23-242-172.compute-1.amazonaws.com/
+Theme URI       :   http://ec2-52-23-242-172.compute-1.amazonaws.com/
 Version         :   1.0.0
 Tested up to    :   WP 4.9
 Author          :   NAK Design Studio
